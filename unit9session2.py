@@ -23,3 +23,4 @@ def level_order(root):
 test = TreeNode(4, TreeNode(2, TreeNode(1), TreeNode(3)), TreeNode(6))
 #test = TreeNode(1, TreeNode(2, TreeNode(4), TreeNode(3)), 5)
 print(level_order(test)) #conclusion: i must work on my inputting of treenodes
+#magit test
