@@ -54,5 +54,3 @@ def left_most(root):
 test = TreeNode(1, None, TreeNode(2, TreeNode(3)))
 test = TreeNode(1, TreeNode(2, TreeNode(4), TreeNode(3)), 5)
 print(left_most(test))
-
-
